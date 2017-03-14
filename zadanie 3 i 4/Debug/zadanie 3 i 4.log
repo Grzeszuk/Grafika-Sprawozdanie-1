@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  zadanie 3 i 4.cpp
+c:\users\brand\documents\visual studio 2015\projects\sprawozdanie1\zadanie 3 i 4\zadanie 3 i 4.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\brand\documents\visual studio 2015\projects\sprawozdanie1\zadanie 3 i 4\zadanie 3 i 4.cpp(47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  zadanie 3 i 4.vcxproj -> c:\users\brand\documents\visual studio 2015\Projects\Sprawozdanie1\Debug\zadanie 3 i 4.exe
+  zadanie 3 i 4.vcxproj -> c:\users\brand\documents\visual studio 2015\Projects\Sprawozdanie1\Debug\zadanie 3 i 4.pdb (Full PDB)
